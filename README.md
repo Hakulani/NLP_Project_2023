@@ -1,8 +1,10 @@
  
 </head>
 <body>
-  <h1>NLP_Project_2023</h1>
-  <h2>1. Implementing Word2Vec</h2>
+  <h1>NLP_Project_2023
+  DADS7203 Text Analytics and Natural Language Processing</h1>
+
+  <h3>1. Implementing Word2Vec</h2>
   <p>
     In this part, you will implement the Word2Vec model and train your own word vectors with stochastic gradient descent (SGD). Numpy methods could be utilized to make your code both shorter and faster. The following requirements should be satisfied:
   </p>
@@ -53,7 +55,6 @@
 <head>
   <title>Team Members</title>
  
- ##DADS 7203. การวิเคราะห์ข้อความและการประมวลผลภาษาธรรมชาติ Text Analytics and Natural Language Processing
 </head>
 <body>
   <h1>Team Members</h1>
