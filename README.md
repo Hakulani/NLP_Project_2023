@@ -1,5 +1,4 @@
- 
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>NLP_Project_2023</title>
