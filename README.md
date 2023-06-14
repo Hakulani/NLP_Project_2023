@@ -1,8 +1,8 @@
  
 </head>
 <body>
-  <h1>NLP_Project_2023
-  DADS7203 Text Analytics and Natural Language Processing</h1>
+  <h1>NLP_Project_2023</h1>
+  <h2>DADS7203 Text Analytics and Natural Language Processing</h2>
 
   <h3>1. Implementing Word2Vec</h2>
   <p>
