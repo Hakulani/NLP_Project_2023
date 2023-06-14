@@ -52,10 +52,7 @@
 </body>
 </html>
 <html>
-<head>
-  <title>Team Members</title>
  
-</head>
 <body>
   <h1>Team Members</h1>
   <ol>
